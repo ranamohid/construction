@@ -126,8 +126,8 @@ img {vertical-align: middle;}
 }
 /*slideshow2*/
 .display{width:100%;}
-.slides50{width:50%; display: inline-block;float: left;}
-.discription1 {width: 50%; display: inline-block;float: left;}
+.slides50{width:50%; display: inline-block;}
+.discription1 {width: 50%; display: inline-block;}
 .discription1 h2{
   color: blue;
 }
